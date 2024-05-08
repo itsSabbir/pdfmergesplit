@@ -66,4 +66,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Acknowledgements
 - Thanks to PyPDF2, a fantastic library that made this tool possible.
 
-```
+
