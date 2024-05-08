@@ -1,4 +1,3 @@
-markdown
 # PDF Tool
 
 ## Overview
