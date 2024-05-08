@@ -60,7 +60,7 @@ python pdf_tool.py split file.pdf output_folder pages_per_split
 Contributions are welcome! If you have ideas for new features or improvements, feel free to fork the repository and submit a pull request.
 
 ## License
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the GPL-3 License. See `LICENSE` for more information.
 
 ## Acknowledgements
 - Thanks to PyPDF2, a fantastic library that made this tool possible.
