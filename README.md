@@ -67,5 +67,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - Thanks to PyPDF2, a fantastic library that made this tool possible.
 
 ```
-
-This README provides a comprehensive guide to using and contributing to your PDF Tool project, alongside explaining its current capabilities and vision for future development.
